@@ -1,4 +1,4 @@
-# DAA# 📘 Design and Analysis of Algorithms (DAA) – Java Experiments
+# 📘 Design and Analysis of Algorithms (DAA) – Java Experiments
 
 This repository contains a collection of Java programs implemented as part of the **Design and Analysis of Algorithms (DAA)** laboratory.  
 Each experiment demonstrates a core algorithmic concept such as searching, sorting, greedy methods, and graph algorithms.  
