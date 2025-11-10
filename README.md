@@ -68,3 +68,9 @@ To understand and implement fundamental algorithms used in computer science for:
    ```bash
    javac FileName.java
    java FileName
+
+##  Student
+- Name : Rucha Nitin Joshi
+- Roll No : 25143074
+- Class : SYIT
+- Batch : I4
